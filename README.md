@@ -1,4 +1,4 @@
-# MindfulR - How Text Mining can reveal about App Store reviews that boost growth, improve product and increase monetization
+# MindfulR - How NLP can reveal about App Store reviews that boost growth, improve product and increase monetization
 
 This post consists of the following sections:
 1) Overview
