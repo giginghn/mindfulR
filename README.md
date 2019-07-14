@@ -2,6 +2,8 @@
 
 Please refer to my [Medium Blog post](https://medium.com/@trucgiangnguyenhuynh/mindfulr-how-app-store-review-mining-can-boost-growth-improve-product-and-increase-monetization-4d50e20e9834?sk=c01c63310f4446a832ca9b04c4ac706e)
 
+-----------------
+
 Have you ever got caught up in your overwhelmed train of thoughts? Have you wished to become more mindful and present? 
 
 Meditation has been shown to reduce stress, improve focus and create the right conditions for healthy, restful sleep. Training the mind is quite challenging than how many people imagined it to be. Hence, there has been a tremendous growth in the guided-meditation apps market to help people improve their mental health and get more mindfulness. 
