@@ -1,20 +1,26 @@
-# MindfulR - How NLP can reveal about App Store reviews that boost growth, improve product and increase monetization
+# MindfulR  -  How App Store Review mining can boost growth, improve product and increase monetization
 
-This post consists of the following sections:
+Have you ever got caught up in your overwhelmed train of thoughts? Have you wished to become more mindful and present? 
+
+Meditation has been shown to reduce stress, improve focus and create the right conditions for healthy, restful sleep. Training the mind is quite challenging than how many people imagined it to be. Hence, there has been a tremendous growth in the guided-meditation apps market to help people improve their mental health and get more mindfulness. 
+
+Stemming from my past experiences in 6 different meditation apps, I have always wondered which app to recommend to which types of audience. As each app has different content that address particularly niche problems in mental health that may differ from people to people. So I thought: “Why not mine data on app reviews to compare the apps?”. I have picked the top 6 meditation apps that are endorsed by App Store and by my own experiences to analyze - Headspace, Calm, Insight Timer, Oak, Meditation Studio, Shine.
+
+What to expect in this post?
 1) Overview
 2) Data
 3) App rating distribution
-4) App rating trend over time
+4) App rating seasonality
 5) App rating per version
-6) User feeling (negative/positive)
-7) Sentiment analysis
-   - Bing Lexicon
+5) Sentiment analysis
    - AFINN Lexicon
    - NRC Lexicon
-8) Text Mining
-   - N-grams of words analysis
+6) Text Mining
    - Bigrams distribution
-   - Bigram relationship network
-9) Unique nouns in each app
-10) Unique Verbs in each app
+   - Bigrams relationship 
+7) NLP
+   - Part-of-Speech tagging
+   - Unique nouns in each app review
+   - Unique Verbs in each app review
+8) Conclusion
 
